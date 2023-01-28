@@ -1,3 +1,6 @@
+# My stats
+![github-readme-stats](https://github-readme-stats.vercel.app/api?username=yvv4git&show_icons=true&count_private=true)
+
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/ZwMF9XIF7eo9i/giphy.gif" width="100"/>
 </div>
@@ -29,3 +32,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-line-wordmark.svg" title="Raspberrypi" alt="Raspberrypi" width="40" height="40"/>&nbsp;
 </p>
+
+
+### My cers
+<img src='public/cert_ml_2021.png' style='width: 40%'>
