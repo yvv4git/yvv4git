@@ -1,7 +1,3 @@
-### Hi there ✨
-
-
-
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/ZwMF9XIF7eo9i/giphy.gif" width="100"/>
 </div>
