@@ -1,10 +1,6 @@
-# My stats
-![github-readme-stats](https://github-readme-stats.vercel.app/api?username=yvv4git&show_icons=true&count_private=true)
-
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/ZwMF9XIF7eo9i/giphy.gif" width="100"/>
 </div>
-
 
 - 🔭 I'm currently working as go developer.
 - 🌱 I'm currently learning artificial intelligence.
@@ -12,7 +8,13 @@
 - 📫 How to reach me: yvv4recon@gmail.com
 
 
-### 🛠 &nbsp;Languages and Tools :
+# My stats
+![github-readme-stats](https://github-readme-stats.vercel.app/api?username=yvv4git&show_icons=true&count_private=true)
+
+
+
+
+# 🛠 &nbsp;Languages and Tools :
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
@@ -34,5 +36,5 @@
 </p>
 
 
-### Buy me a coffee
+# Buy me a coffee
 <img src='public/tether_trc20.jpg' style='width: 40%'>
