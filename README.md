@@ -38,3 +38,7 @@
 <img src='public/cert_ml_2021.png' style='width: 40%'>
 <br>
 <img src='public/mssql_20131211.jpg' style='width: 40%'>
+
+
+### Buy me a coffee
+<img src='public/tether_trc20.jpg' style='width: 40%'>
