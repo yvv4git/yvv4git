@@ -44,6 +44,6 @@
   </tr>
   <tr>
     <td><img src='public/tether_trc20.jpg' style='width: 40%'></td>
-    <td><img src='public/bitcoin_wallet.png' style='width: 80%'></td>
+    <td><img src='public/bitcoin_wallet.png' style='width: 90%'></td>
   </tr>
 </table>
