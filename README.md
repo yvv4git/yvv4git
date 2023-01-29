@@ -37,5 +37,13 @@
 
 
 # Buy me a coffee
-<img src='public/tether_trc20.jpg' style='width: 40%'>
-<img src='public/bitcoin_wallet.png' style='width: 40%'>
+<table>
+  <tr>
+    <td>Tether trc20</td>
+    <td>Bitcoin</td>
+  </tr>
+  <tr>
+    <td><img src='public/tether_trc20.jpg' style='width: 40%'></td>
+    <td><img src='public/bitcoin_wallet.png' style='width: 40%'></td>
+  </tr>
+</table>
