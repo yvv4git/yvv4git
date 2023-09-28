@@ -46,11 +46,11 @@
     <td><img src='public/tether_trc20.jpg' style='width: 40%'></td>
     <td><img src='public/bitcoin_wallet.png' style='width: 90%'></td>
   </tr>
-    <tr>
+  <!-- <tr>
     <td><img src='public/cert_ml_2021.png' style='width: 60%'></td>
   </tr>
   </tr>
     <tr>
     <td><img src='public/cert_sec.png' style='width: 90%'></td>
-  </tr>
+  </tr> -->
 </table>
