@@ -6,6 +6,7 @@
 - 🌱 I'm currently learning artificial intelligence.
 - 👯 I'am looking forward to cooperation in trading or cryptocurrency.
 - 📫 How to reach me: yvv4recon@gmail.com
+- 💻 My leetcode profile: https://leetcode.com/VladimirEliseev/
 
 
 # My stats
