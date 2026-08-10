@@ -1,21 +1,16 @@
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/ZwMF9XIF7eo9i/giphy.gif" width="100"/>
+  <img src="public/text_animation_v2.gif" width="300"/>
 </div>
 
-- 🔭 I'm currently working as go developer.
+- 🔭 I'm currently working as a Go developer.
 - 🌱 I'm currently learning artificial intelligence.
-- 👯 I'am looking forward to cooperation in trading or cryptocurrency.
-- 📫 How to reach me: yvv4recon@gmail.com
-- 💻 My leetcode profile: https://leetcode.com/VladimirEliseev/
-
-
-# My stats
-![github-readme-stats](https://github-readme-stats.vercel.app/api?username=yvv4git&show_icons=true&count_private=true)
-
-
-
-
-# 🛠 &nbsp;Languages and Tools :
+- 💰 Passionate about cryptocurrency and automated trading.
+- 🤖 Building trading bots and crypto tools.
+- 👯 Open to collaboration on trading, crypto, and automation projects.
+- 🛠 Crafting tools with Go, Rust, and Python.
+- 📫 How to reach me: [yvv4recon@gmail.com](mailto:yvv4recon@gmail.com)
+- 💻 My leetcode profile: [leetcode.com/VladimirEliseev](https://leetcode.com/VladimirEliseev/)
+# 🛠 Languages and Tools
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
@@ -37,8 +32,24 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-line-wordmark.svg" title="Raspberrypi" alt="Raspberrypi" width="40" height="40"/>&nbsp;
 </p>
 
+# My projects
+
+- [nmapXml2Csv](https://github.com/yvv4git/nmapXml2Csv) — script to convert nmap results to csv
+- [api-go-bingx](https://github.com/yvv4git/api-go-bingx) — API for trading on the stock exchange
+- [recon_arp](https://github.com/yvv4git/recon_arp) — network arp scanner
+- [git-commit-gen](https://github.com/yvv4git/git-commit-gen) — generate git commit messages automatically using an LLM
+- [llm-tonality](https://github.com/yvv4git/llm-tonality) — FastAPI service for determining text tonality
+- [go-juggler](https://github.com/yvv4git/go-juggler) — Go client for Juggler protocol, automates Firefox/Camoufox browsers
+- [fs-standardizer](https://github.com/yvv4git/fs-standardizer) — standardizes file names
+
 
 # Buy me a coffee
+<p align="center">
+  <a href="https://tonviewer.com/UQCcbp-mue-7HTjDNQ_ZrKtg-tUxIFu817APmItjXasiBGP3">
+    <img src="https://img.shields.io/badge/Buy%20me%20a%20TON-0098EA?style=for-the-badge">
+  </a>
+</p>
+<!--
 <table>
   <tr>
     <td>Tether trc20</td>
@@ -48,11 +59,5 @@
     <td><img src='public/tether_trc20_tw.png' style='width: 90%'></td>
     <td><img src='public/bitcoin_wallet.png' style='width: 90%'></td>
   </tr>
-  <!-- <tr>
-    <td><img src='public/cert_ml_2021.png' style='width: 60%'></td>
-  </tr>
-  </tr>
-    <tr>
-    <td><img src='public/cert_sec.png' style='width: 90%'></td>
-  </tr> -->
 </table>
+-->
