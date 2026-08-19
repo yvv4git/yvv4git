@@ -40,6 +40,7 @@
 - [git-commit-gen](https://github.com/yvv4git/git-commit-gen) — generate git commit messages automatically using an LLM
 - [llm-tonality](https://github.com/yvv4git/llm-tonality) — FastAPI service for determining text tonality
 - [go-juggler](https://github.com/yvv4git/go-juggler) — Go client for Juggler protocol, automates Firefox/Camoufox browsers
+- [go-juggler-mcp](https://github.com/yvv4git/go-juggler-mcp) — MCP-compatible server that lets you control a browser programmatically via the Juggler interface
 - [fs-standardizer](https://github.com/yvv4git/fs-standardizer) — standardizes file names
 
 
